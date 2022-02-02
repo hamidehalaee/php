@@ -44,7 +44,7 @@
                 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">...</nav>
 
                 <!-- Blue with white text -->
-                <nav class="navbar navbar-expand-sm bg-primary navbar-dark">...</nav>
+                <nav class="navbar navbar-expand-sm bg-primary navbar-dark">testing heruko </nav>
             </div>
     </body>
 </html>
